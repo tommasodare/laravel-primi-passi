@@ -10,6 +10,8 @@
 <body>
     <h1>Welcome to Laravel Home Page</h1>
     <p>This is a simple Laravel application.</p>
+
+    <p>{{$informazioni}}</p>
 </body>
 
 </html>
